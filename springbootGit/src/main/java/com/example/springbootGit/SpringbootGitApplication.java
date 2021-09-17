@@ -10,6 +10,7 @@ public class SpringbootGitApplication {
 
 		SpringApplication.run(SpringbootGitApplication.class, args);
 		System.out.println("helloWorld!...");
+		System.out.println("Heroku Setup...");
 	}
 
 }
